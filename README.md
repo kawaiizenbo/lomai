@@ -1,3 +1,6 @@
+# lomai conlang
+this document is presented in english using the seximal numbering system
+
 ## vowels
  - a: as in fAther
  - i: as in mEEt
@@ -41,7 +44,7 @@ w, m, t, q (/k/), y (/j/), n, l, b, f, s
 ### particles
  - to: possesive particle  
  - yo: is, are  
- - ma: and, as well as  
+ - ma: and, as well as, also  
 
 ### pronouns
  - mai: first person pronoun  
@@ -83,4 +86,4 @@ w, m, t, q (/k/), y (/j/), n, l, b, f, s
 ## exapmple sentences and translations
  - 'mai to puli mimi' = 'i want to have sleep'
  - 'mai yo wowai onu' = 'i am 10 beings'
- - 'yona yo wai ma mili' = 'you are cute and small'
+ - 'yonu yo wai ma mili' = 'you are cute and small'
