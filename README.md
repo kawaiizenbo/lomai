@@ -39,41 +39,41 @@ w, m, t, q (/k/), y (/j/), n, l, b, f, s
 ## vocabulary
 
 ### particles
-to: possesive particle
-yo: is, are
-ma: and, as well as
+ - to: possesive particle  
+ - yo: is, are  
+ - ma: and, as well as  
 
 ### pronouns
-mai: first person pronoun
-yonu: second person pronoun
-tala: third person pronoun
+ - mai: first person pronoun  
+ - yonu: second person pronoun  
+ - tala: third person pronoun  
 
 ### general words
-puli: want, desire
-loma: language
-mimi: sleep
-wai: cute
-wiwo: maybe
-mili: small
-moma: large
-wowai: individual, being
+ - puli: want, desire  
+ - loma: language  
+ - mimi: sleep  
+ - wai: cute  
+ - wiwo: maybe  
+ - mili: small  
+ - moma: large  
+ - wowai: individual, being  
 
 ### colour words
 
 
 ### number words (seximal)
-non: 0
-itu: 1
-ami: 2
-umi: 3
-yai: 4
-uqo: 5
-onu: 10
-aminu: 20 (dozen)
-uminu: 30 (thirsy)
-yainu: 40 (foursy)
-uqonu: 50 (fifsy)
-nifu: 100 (from ndom "nif")
+ - non: 0  
+ - itu: 1  
+ - ami: 2  
+ - umi: 3  
+ - yai: 4  
+ - uqo: 5  
+ - onu: 10  
+ - aminu: 20 (dozen)  
+ - uminu: 30 (thirsy)  
+ - yainu: 40 (foursy)  
+ - uqonu: 50 (fifsy)
+ - nifu: 100 (from ndom "nif")
 
 #### number notes
  - numbers are added for finer values
@@ -81,6 +81,6 @@ nifu: 100 (from ndom "nif")
     - nifu nifu yainu yai = 'two nif foursy four' (244)
 
 ## exapmple sentences and translations
-'mai to puli mimi' = 'i want to have sleep'
-'mai yo wowai onu' = 'i am 10 beings'
-'yona yo wai ma mili' = 'you are cute and small'
+ - 'mai to puli mimi' = 'i want to have sleep'
+ - 'mai yo wowai onu' = 'i am 10 beings'
+ - 'yona yo wai ma mili' = 'you are cute and small'
